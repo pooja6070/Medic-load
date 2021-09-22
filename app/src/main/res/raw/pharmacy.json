@@ -1,0 +1,259 @@
+[
+    {
+      "name":"saphal Pharmacy",
+      "address":"ktm dillibazar",
+      "delivery_charge": 5,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ70W7uJSj0xmiAHxL_gim5R7424C1fx-3Mw&usqp=CAU",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Pantoparazol",
+          "price": 10.00,
+          "url": "https://pbs.twimg.com/media/EYyw6YBVcAACEnt.jpg"
+        },
+        {
+          "name": "Acetaminophen",
+          "price": 13.99,
+          "url": "https://mpng.subpng.com/20191114/hps/transparent-medicine-icon-drug-icon-healthcare-and-medical-ico-5dcde0de7ae0e1.9381114015737735345033.jpg"
+        },
+        {
+          "name": "Atorvastatin",
+          "price": 4.99,
+          "url": "https://mpng.subpng.com/20191114/hps/transparent-medicine-icon-drug-icon-healthcare-and-medical-ico-5dcde0de7ae0e1.9381114015737735345033.jpg"
+        },
+        {
+          "name": "Azithromycin",
+          "price": 5.49,
+          "url": "https://mpng.subpng.com/20191114/hps/transparent-medicine-icon-drug-icon-healthcare-and-medical-ico-5dcde0de7ae0e1.9381114015737735345033.jpg"
+        },
+        {
+          "name": "Kevzara",
+          "price": 4.00,
+          "url": "https://mpng.subpng.com/20191114/hps/transparent-medicine-icon-drug-icon-healthcare-and-medical-ico-5dcde0de7ae0e1.9381114015737735345033.jpg"
+        },
+        {
+          "name": "Insulin glargine",
+          "price": 3.25,
+          "url": "https://mpng.subpng.com/20191114/hps/transparent-medicine-icon-drug-icon-healthcare-and-medical-ico-5dcde0de7ae0e1.9381114015737735345033.jpg"
+        },
+        {
+          "name": "Invega",
+          "price": 5.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"ktm Pharmacy",
+      "address":"greenland kathmandu",
+      "delivery_charge": 4,
+      "image":"https://previews.123rf.com/images/dvolkovkir1980/dvolkovkir19801702/dvolkovkir1980170200062/72833093-pharmacy-pharmacy-icon-flat-design-vector-illustration-vector-.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Glucagon",
+          "price": 2.99,
+          "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+        },
+        {
+          "name": "Glucosamine",
+          "price": 3.59,
+          "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+        },
+        {
+          "name": "Glucotrol",
+          "price": 5.44,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+        },
+        {
+          "name": "Glatiramer",
+          "price": 2.00,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Pantoparazol",
+          "price": 10.00,
+          "url": "https://pbs.twimg.com/media/EYyw6YBVcAACEnt.jpg"
+        },
+        {
+          "name": "Acetaminophen",
+          "price": 13.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Atorvastatin",
+          "price": 4.99,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Azithromycin",
+          "price": 5.49,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "Kevzara",
+          "price": 4.00,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Insulin glargine",
+          "price": 3.25,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Invega",
+          "price": 5.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Ivermectin",
+          "price": 3.99,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Ixabepilone",
+          "price": 8.09,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Ixinity",
+          "price": 6.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+
+      ]
+    },
+  {
+    "name":"jiban Pharmacy",
+    "address":"bashundhara kathmandu",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavHLfWDE02AAs5lF_zxfv84_YKBsXScBKBQ&usqp=CAU",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Glucagon",
+        "price": 2.99,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+      },
+      {
+        "name": "Glucosamine",
+        "price": 3.59,
+        "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+      },
+      {
+        "name": "Glucotrol",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+      },
+      {
+        "name": "Glatiramer",
+        "price": 2.00,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+      },
+      {
+        "name": "Pantoparazol",
+        "price": 10.00,
+        "url": "https://pbs.twimg.com/media/EYyw6YBVcAACEnt.jpg"
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 13.99,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+      },
+      {
+        "name": "Atorvastatin",
+        "price": 4.99,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "Azithromycin",
+        "price": 5.49,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      }
+    ]
+  },
+  {
+    "name":"bishal pharmacy",
+    "address":"dapashi kathmandu",
+    "delivery_charge": 6,
+    "image":"",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Glucagon",
+        "price": 2.99,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+      },
+      {
+        "name": "Glucosamine",
+        "price": 3.59,
+        "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+      },
+      {
+        "name": "Glucotrol",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+      },
+      {
+        "name": "Glatiramer",
+        "price": 2.00,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+      },
+      {
+        "name": "Pantoparazol",
+        "price": 10.00,
+        "url": "https://pbs.twimg.com/media/EYyw6YBVcAACEnt.jpg"
+      },
+      {
+        "name": "Acetaminophen",
+        "price": 13.99,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+      },
+      {
+        "name": "Atorvastatin",
+        "price": 4.99,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "Azithromycin",
+        "price": 5.49,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      }
+    ]
+  }
+]
+
